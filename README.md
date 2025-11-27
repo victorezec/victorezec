@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="center" width="100%" src="https://i.imgur.com/4M7IWwP.gif" alt="banner"/>
+ 
 
 # 👋 Hey there, I'm Victor
 ### 🚀 Software Developer | PHP • Laravel • JavaScript • React • React Native • MySQL
@@ -36,11 +36,11 @@ I build full-stack web and mobile applications using modern tools and best pract
 
 ## 🌐 Connect With Me
 
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<a href="https://facebook.com/victorezechibuzor" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32px" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<a href="https://twitter.com/victorezec" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32px" />
 </a>
 &nbsp;&nbsp;
@@ -48,9 +48,7 @@ I build full-stack web and mobile applications using modern tools and best pract
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32px" />
-</a>
+ 
 
 ---
 
