@@ -44,7 +44,7 @@ I build full-stack web and mobile applications using modern tools and best pract
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32px" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/victorezec" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
 </a>
 &nbsp;&nbsp;
