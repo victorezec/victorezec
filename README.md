@@ -1,5 +1,66 @@
 ## Hi there 👋
 
+<img align="center" width="100%" src="https://i.imgur.com/4M7IWwP.gif" alt="banner"/>
+
+# 👋 Hey there, I'm Victor
+### 🚀 Software Developer | PHP • Laravel • JavaScript • React • React Native • MySQL
+
+I'm a passionate developer who loves turning ideas into clean, scalable, and high-performance software.  
+I build full-stack web and mobile applications using modern tools and best practices.
+
+---
+
+## 🚀 Tech Stack
+
+### **Languages & Frameworks**
+💎 PHP • Laravel • JavaScript • React • React Native • HTML • CSS  
+🗄️ MySQL • REST APIs • JSON  
+⚙️ Git • Linux • NPM • Composer  
+
+### **Tools & Technologies**
+🖥️ VS Code • Postman • GitHub • Figma • Docker • TailwindCSS
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32px" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32px" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32px" />
+</a>
+
+---
+
+## ⚡ Fun Facts
+- 💡 I love building real-world solutions.
+- 🎯 Always learning something new.
+- 🎮 When not coding, I'm gaming, exploring tech, or watching movies.
+
+ 
+ 
 <!--
 **victorezec/victorezec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
