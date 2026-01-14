@@ -3,7 +3,7 @@
  
 
 # 👋 Hey there, I'm Victor
-### 🚀 Software Developer | PHP • Laravel • JavaScript • React • React Native • MySQL
+### 🚀 Software Developer | PHP • Laravel • JavaScript • Go Lang • React • React Native • MySQL
 
 I'm a passionate developer who loves turning ideas into clean, scalable, and high-performance software.  
 I build full-stack web and mobile applications using modern tools and best practices.
@@ -13,7 +13,7 @@ I build full-stack web and mobile applications using modern tools and best pract
 ## 🚀 Tech Stack
 
 ### **Languages & Frameworks**
-💎 PHP • Laravel • JavaScript • React • React Native • HTML • CSS  
+💎 PHP • Laravel • JavaScript • Go Lang • React • React Native • HTML • CSS  
 🗄️ MySQL • REST APIs • JSON  
 ⚙️ Git • Linux • NPM • Composer  
 
